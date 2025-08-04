@@ -18,7 +18,7 @@ public class Calculator {
         if (b == 0) {
             System.out.println("Error: Division by zero is undefined.");
         } else {
-            System.out.println("Result: " + (a / b));
+            System.out.println("Result: " + ((double)a / b));
         }
     }
 }
