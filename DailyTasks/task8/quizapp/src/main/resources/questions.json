@@ -1,0 +1,17 @@
+[
+  {
+    "questionText": "Which language is used for Android development?",
+    "options": ["Python", "Java", "C#", "Ruby"],
+    "correctAnswer": 1
+  },
+  {
+    "questionText": "What is the capital of France?",
+    "options": ["Berlin", "London", "Paris", "Rome"],
+    "correctAnswer": 2
+  },
+  {
+    "questionText": "Which keyword is used to inherit a class in Java?",
+    "options": ["this", "super", "extends", "implements"],
+    "correctAnswer": 2
+  }
+]
